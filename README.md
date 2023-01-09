@@ -1,7 +1,7 @@
 # Project Name
 Covid-19 and Stop and search Dashboard
 
-# Description
+## Description
 
 This is a Dash app that visualizes COVID-19 data and Police Stop and search statistics in UK cities.
 
@@ -35,7 +35,7 @@ After running the program, it can be accessed locally on the browser through loc
 ## Usage
 
 To use the app, simply open a web browser and navigate to the URL where the app is hosted 
-(e.g., http://localhost:8050).
+[Dashboard app](https://ica-covid-stopsearch-dashboard.onrender.com/).
 
 You will be presented with a login page, login with the login details provided below.
 
