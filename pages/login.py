@@ -25,7 +25,7 @@ login_layout = html.Div(id="page-content", className='container-fluid', children
             ])
         ])
     ]),
-    html.Div(className='row align-items-center justify-content-center mt-5', children=[
+    html.Div(className='row align-items-center justify-content-center mt-2', children=[
         html.Div(className='col-md-3 mt-5', style={'backgroundColor': '#eeeeee'}, children=form)
     ]),
     
