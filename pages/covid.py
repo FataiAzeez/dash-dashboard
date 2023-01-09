@@ -3,7 +3,7 @@ from dash import html, dcc, callback, Input, Output
 import pandas as pd
 
 # Import the COVID-19 data
-main_df = pd.read_csv("covid_data.csv")
+main_df = pd.read_csv("/covid_data.csv")
 
 #convert date column to DateTime format
 main_df['date'] = pd.to_datetime(main_df['date'])
