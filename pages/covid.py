@@ -7,7 +7,7 @@ main_df = pd.read_csv("https://github.com/FataiAzeez/dash-dashboard/blob/4519b0d
                       engine='python', error_bad_lines=False)
 
 #convert date column to DateTime format
-main_df['date'] = pd.to_datetime(main_df['date'])
+#main_df['date'] = pd.to_datetime(main_df['date'])
 
 # Create a copy of the main dataframe 
 new_df = main_df.copy()
