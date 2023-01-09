@@ -3,6 +3,10 @@ from dash import html, dcc, Input, Output
 from app import app
 from pages import covid, search, about, login
 
+# setting the server
+server = app.server
+
+
 # embedding the layout 
 app.layout = html.Div([
     dcc.Location(id='url', refresh=False),
