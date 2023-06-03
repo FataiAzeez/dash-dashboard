@@ -52,8 +52,6 @@ about_layout = html.Div(className='container-fluid', children=[
 
                 **The Stop and Search Dashboard** displays stop and search statistics for Cleveland and Northumbria Police forces for the month of August 2021, including the total number of stop and searches conducted, total arrests made, and breakdowns by gender, age group, and ethnic group. 
 
-                These dashboards were developed as part of a course module at Teesside University and offer a powerful tool for understanding and analyzing important issues facing the UK.
-
             ''')
         ])  # End of about page content
     ]),
