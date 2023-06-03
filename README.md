@@ -52,4 +52,4 @@ The data used in this application is sourced from the
 
 ## Copyright
 
-These dashboards were developed as part of a course module at Teesside University and offer a powerful tool for understanding and analyzing important issues facing the UK.
+These dashboards were developed as by Fatai Azeez as tool for understanding and analyzing important issues facing the UK.
